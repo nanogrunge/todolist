@@ -11,8 +11,8 @@
     "react-dom": "^16.13.0",
     "react-scripts": "3.4.0"
   },
+  "homepage": "https://nanogrunge.github.io/todolist",
   "scripts": {
-    "homepage":"https://nanogrunge.github.io/todolist",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
